@@ -143,4 +143,4 @@ Double check who is in "Domain Users" Security Group in DC-1
 ## Credits
 [back to top](#top)
 
-- Josh Madakor [link](https://github.com/joshmadakor1)
+- [Josh Madakor](https://github.com/joshmadakor1)
